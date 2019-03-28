@@ -1,0 +1,11 @@
+{
+"companyName": "miisfactory",
+"productName": "ブララヴァ2改",
+"dataUrl": "al2web.data.unityweb",
+"asmCodeUrl": "al2web.asm.code.unityweb",
+"asmMemoryUrl": "al2web.asm.memory.unityweb",
+"asmFrameworkUrl": "al2web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
